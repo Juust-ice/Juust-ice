@@ -1,28 +1,42 @@
-# Hi there 👋 I'm Justice
+# Hey, I'm Justice 👋
 
-I build software and robotics projects, with a focus on **PID control**, **Java** applications, and **Python/web** tools.
+### 💻 Computer Science Student | Cybersecurity Enthusiast | Software Developer
 
----
+I'm a Computer Science student at **The University of Texas at El Paso (UTEP)**, specializing in Cybersecurity. I enjoy building things, solving problems, and exploring the intersection of software, security, and intelligent systems.
 
-## Featured Projects
-
-* **[Ras-Movement-PID-C-](https://github.com/Juust-ice/Ras-Movement-PID-C-)** (`C++`) — Movement control using PID logic.
-* **[Robot-Movement-PID-](https://github.com/Juust-ice/Robot-Movement-PID-)** (`Java`) — Robot competition movement control designed to minimize movement error with PID.
-* **[Miner-Disco](https://github.com/Juust-ice/Miner-Disco)** (`Java`) — Reads data from a file to power a record shop where users can browse/buy by genre or artist.
-* **[Battle-Ship](https://github.com/Juust-ice/Battle-Ship)** (`Java`) — Console Battleship game using a `Scanner`, 2D arrays, array copying, character replacement, methods, and loops.
-* **[Ras-Discord-Bot](https://github.com/Juust-ice/Ras-Discord-Bot)** (`Python`) — Discord bot project.
-* **[fuel-api-wrapper](https://github.com/Juust-ice/fuel-api-wrapper)** (`HTML`) — Fuel API wrapper project.
+I'm especially interested in cybersecurity, systems programming, robotics, and developing software that solves real-world problems.
 
 ---
 
-## Tech Stack
+### ⚡ What I'm Working On
+- 🤖 Developing robotics software and autonomous systems.
+- 🔐 Exploring cybersecurity, networking, and system security.
+- 💻 Building projects with C, C++, Java, Python, and PHP.
+- 🧠 Expanding my knowledge of algorithms, operating systems, and software architecture.
 
-* **Languages:** C++, Java, Python, HTML
-* **Focus Areas:** Robotics & PID Control, Core Programming & Data Structures, Bots & APIs
+### 🛠️ Tech Stack
+
+**Languages**
+`C` `C++` `Java` `Python` `PHP` `JavaScript` `Bash`
+
+**Tools & Technologies**
+`Git` `Linux` `VS Code` `GCC` `Raspberry Pi` `Arduino` `OpenCV`
+
+**Areas of Interest**
+`Cybersecurity` `Robotics` `Systems Programming` `Networking` `AI`
 
 ---
 
-## GitHub Activity
+### 🚀 A Little About Me
+- 🎓 Pursuing a B.S. in Computer Science at UTEP.
+- 🛡️ Cybersecurity concentration.
+- 🤖 Involved in robotics and software development projects.
+- 🔧 I enjoy understanding how things work, from low-level systems to complex software.
 
-* **17** public repositories
-* **46** contributions over the past year
+---
+
+### 📫 Let's Connect
+
+Feel free to explore my repositories, check out my projects, or collaborate on something interesting!
+
+**"Building, breaking, learning, and improving — one commit at a time."**
