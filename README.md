@@ -1,108 +1,120 @@
-# 👾 Justice Brussel
+# 𝕵𝖚𝖘𝖙𝖎𝖈𝖊 𝕭𝖗𝖚𝖘𝖘𝖊𝖑
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=650&lines=Computer+Science+%40+UTEP;Cybersecurity+Enthusiast;Software+%26+Systems+Developer;Robotics+%26+Autonomous+Systems;Always+Building+Something+New..." alt="Typing SVG" />
+<img src="assets/hiei.jpg" width="420" alt="Profile artwork"/>
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00cc88)](https://github.com/YOUR_USERNAME)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF315A&center=true&vCenter=true&width=650&lines=Computer+Science+%40+UTEP;Cybersecurity+Enthusiast;Software+Developer;Robotics+%26+Autonomous+Systems;Code+Beyond+Limits." />
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-0A050A?style=for-the-badge&logo=github&logoColor=FF315A)](https://github.com/YOUR_USERNAME)
+[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=9B5DE5&label=PROFILE+VIEWS)](https://github.com/YOUR_USERNAME)
 
 </div>
 
 ---
 
-## `whoami`
+<div align="center">
 
-I'm a Computer Science student at **The University of Texas at El Paso (UTEP)** pursuing a B.S. in Computer Science with a concentration in Cybersecurity.
+### 「 Beyond the limits of ordinary code. 」
 
-I enjoy building software, experimenting with low-level systems, exploring cybersecurity, and developing technology that interacts with the real world.
+</div>
 
-My interests include everything from systems programming and networking to robotics and autonomous systems.
+## 01 // ABOUT ME
 
 ```bash
-> currently_learning: Cybersecurity, Systems & Software Engineering
-> currently_building: Robotics, Autonomous Systems & Software Projects
-> favorite_languages: C, C++, Java, Python
-> mindset: Build. Break. Debug. Repeat.
+$ whoami
+
+Justice Brussel
+Computer Science Student @ UTEP
+Cybersecurity Concentration
+
+[+] Software Development
+[+] Cybersecurity
+[+] Robotics & Autonomous Systems
+[+] Systems Programming
+
+$ status
+Always learning. Always building.
 ```
 
-## ⚡ Tech Stack
+I'm a Computer Science student at **The University of Texas at El Paso**, interested in building software, exploring computer systems, and developing technology that interacts with the real world.
+
+I enjoy working on projects that challenge me to think outside the box, from low-level programming to robotics and autonomous systems.
+
+## 02 // TECH ARSENAL
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,js,bash" />
+**PROGRAMMING LANGUAGES**
 
-### Tools & Technologies
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,raspberrypi,arduino,opencv" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,js,bash&theme=dark" />
 
-### Currently Exploring
-<img src="https://skillicons.dev/icons?i=raspberrypi,docker,linux,python,cpp" />
+<br/><br/>
+
+**TOOLS & TECHNOLOGIES**
+
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,raspberrypi,arduino,docker&theme=dark" />
 
 </div>
 
----
+## 03 // AREAS OF INTEREST
 
-## 🚀 What I'm Interested In
+| DOMAIN | FOCUS |
+|:---|:---|
+| 🔴 Cybersecurity | Network security, system security |
+| 🟣 Robotics | Autonomous systems, computer vision |
+| 🔴 Systems | C/C++, operating systems, networking |
+| 🟣 Software | Algorithms, architecture, backend |
+| 🔴 AI | Intelligent systems, automation |
 
-| Field | Interests |
-|---|---|
-| 🔐 Cybersecurity | Network security, system security, ethical hacking |
-| 🤖 Robotics | Autonomous systems, computer vision, embedded software |
-| 💻 Software Engineering | Algorithms, architecture, backend development |
-| ⚙️ Systems Programming | Operating systems, C/C++, low-level development |
-| 🧠 Artificial Intelligence | Intelligent systems, automation, computer vision |
-
----
-
-## 📊 GitHub Statistics
+## 04 // GITHUB STATISTICS
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D0610&title_color=FF315A&text_color=D8C7E8&icon_color=9B5DE5&include_all_commits=true" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D0610&title_color=FF315A&text_color=D8C7E8" />
+
+<br/><br/>
+
+<img width="65%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=0D0610&ring=FF315A&fire=9B5DE5&currStreakLabel=FF315A&sideLabels=D8C7E8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8A7A91" />
+
+</div>
+
+## 05 // CONTRIBUTION ACTIVITY
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
+
+</div>
+
+## 06 // PROJECTS
+
+Currently exploring and developing projects in:
+
+- 🤖 Robotics & Autonomous Systems
+- 🔐 Cybersecurity & Networking
+- ⚙️ Systems Programming
+- 💻 Software Engineering
+- 🧠 Artificial Intelligence
+
+[![Explore Projects](https://img.shields.io/badge/EXPLORE_REPOSITORIES-FF315A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME?tab=repositories)
+
+---
+
+<div align="center">
+
+### 𝕱𝖎𝖓𝖎𝖘𝖍 𝖜𝖍𝖆𝖙 𝖞𝖔𝖚 𝖘𝖙𝖆𝖗𝖙.
+
+**`while(alive) { keepBuilding(); }`**
 
 <br/>
 
-<img width="60%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%" />
-
-</div>
-
----
-
-## 🔭 Featured Projects
-
-Check out my repositories for projects involving:
-
-- 🤖 Robotics and autonomous navigation
-- 🔐 Cybersecurity and systems programming
-- 💻 Software development and algorithms
-- 🧪 Programming language experiments
-
-[![Explore Repositories](https://img.shields.io/badge/Explore_My_Repositories-00CC88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/YOUR_USERNAME?tab=repositories)
-
----
-
-<div align="center">
-
-### `while(alive) { keepBuilding(); }`
-
-**Building, breaking, learning, and improving — one commit at a time.**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a12,50:006644,100:00cc88&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09030D,50:58001F,100:9B174C&height=120&section=footer" width="100%"/>
 
 </div>
